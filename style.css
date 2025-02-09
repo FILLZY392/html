@@ -1,1 +1,8 @@
+body { bakcground-color: black;    
+    font-family: sans-serif;
+     color: white}
 
+nav {padding: 10px; text-decoration: none;background-color:white; font-size:20px; }
+main p {color:white}
+
+footer{background-color: #f3b926; border: 3px solid white; padding: 5px;}
